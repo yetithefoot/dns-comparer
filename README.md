@@ -1,3 +1,5 @@
+#dns-comparer
+
 Checks that two domains point to the same ip. 
 
 Problem
