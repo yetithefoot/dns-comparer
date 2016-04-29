@@ -2,7 +2,7 @@
   "name": "dns-comparer",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "Checks that two domains point to the same ip",
   "scripts": {},
   "dependencies": {
