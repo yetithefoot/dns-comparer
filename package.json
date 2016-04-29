@@ -1,0 +1,19 @@
+{
+  "name": "dns-comparer",
+  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Comapares that two domain names points to the same ip address",
+  "scripts": {},
+  "dependencies": {
+    "intersect": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": "yetithefoot/dns-comparer",
+  "keywords": [
+    "domain",
+    "dns",
+    "ip",
+    "comparer"
+  ]
+}
