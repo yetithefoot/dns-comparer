@@ -3,7 +3,7 @@
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
   "version": "0.1.1",
-  "description": "Comapares that two domain names points to the same ip address",
+  "description": "Checks that two domains point to the same ip",
   "scripts": {},
   "dependencies": {
     "intersect": "^1.0.1"
