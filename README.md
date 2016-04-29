@@ -43,6 +43,8 @@ compare('google.com', '173.194.122.199', function(err, result){
     // intersection: [ '173.194.122.199' ] }
 });
 ```
+Find more usage examples [here](https://github.com/yetithefoot/dns-comparer/tree/master/examples)
+
 
 Callback
 ---
@@ -57,7 +59,6 @@ Callback returns `result` object as a second param if comparing was done:
     ips1: Array, // ips for first domain
     ips2: Array, // ips for second domain
     intersection: Array // common ips for first and second domains
-}
 }
 ```
 
